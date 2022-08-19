@@ -1,2 +1,2 @@
-50/100 days with frontend
-halfway there
+51/100 days with frontend
+
