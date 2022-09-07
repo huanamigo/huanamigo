@@ -1,2 +1,1 @@
-69/100 days with frontend
-nice
+70/100 days with frontend
