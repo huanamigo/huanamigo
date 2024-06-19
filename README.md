@@ -12,5 +12,5 @@ const  artur  = {
 	},
 	architecture: ['SPA', 'PWA'],
 	lifestyle: ['KISS', 'DRY', 'SOLID', 'YAGNI']
-	};
+};
 ```
